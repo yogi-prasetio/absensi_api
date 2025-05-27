@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\absensi_api.props" />
+</Project>

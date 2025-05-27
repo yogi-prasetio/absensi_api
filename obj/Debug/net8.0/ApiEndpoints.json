@@ -1,0 +1,472 @@
+[
+  {
+    "ContainingType": "absensi_api.Controllers.AccountController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AccountController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "absensi_api.ViewModels.AccountViewModel\u002BCreateAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AccountController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Account",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "absensi_api.ViewModels.AccountViewModel\u002BUpdateAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AccountController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Account/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AccountController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Account/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AttendanceLogController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/AttendanceLog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AttendanceLogController",
+    "Method": "Create",
+    "RelativePath": "api/v1/AttendanceLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendanceLog",
+        "Type": "absensi_api.ViewModels.AttendanceLogViewModel\u002BCreateAttendance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AttendanceLogController",
+    "Method": "Update",
+    "RelativePath": "api/v1/AttendanceLog",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendanceLog",
+        "Type": "absensi_api.ViewModels.AttendanceLogViewModel\u002BUpdateAttendance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AttendanceLogController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/AttendanceLog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AttendanceLogController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/AttendanceLog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginPayload",
+        "Type": "absensi_api.ViewModels.AuthenticationViewModel\u002BLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckInLogController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/CheckInLog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckInLogController",
+    "Method": "Create",
+    "RelativePath": "api/v1/CheckInLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkInLog",
+        "Type": "absensi_api.ViewModels.CheckInLogViewModel\u002BCreateCheckIn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckInLogController",
+    "Method": "Update",
+    "RelativePath": "api/v1/CheckInLog",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkInLog",
+        "Type": "absensi_api.ViewModels.CheckInLogViewModel\u002BUpdateCheckIn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckInLogController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/CheckInLog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckInLogController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/CheckInLog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckOutLogController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/CheckOutLog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckOutLogController",
+    "Method": "Create",
+    "RelativePath": "api/v1/CheckOutLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkOutLog",
+        "Type": "absensi_api.ViewModels.CheckOutLogViewModel\u002BCreateCheckOut",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckOutLogController",
+    "Method": "Update",
+    "RelativePath": "api/v1/CheckOutLog",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkOutLog",
+        "Type": "absensi_api.ViewModels.CheckOutLogViewModel\u002BUpdateCheckOut",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckOutLogController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/CheckOutLog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.CheckOutLogController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/CheckOutLog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.RoleController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.RoleController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "absensi_api.ViewModels.RoleViewModel\u002BCreateRole",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.RoleController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "absensi_api.ViewModels.RoleViewModel\u002BUpdateRole",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.RoleController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Role/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.RoleController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Role/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "absensi_api.ViewModels.UserViewModel\u002BCreateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "absensi_api.ViewModels.UserViewModel\u002BUpdateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "absensi_api.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

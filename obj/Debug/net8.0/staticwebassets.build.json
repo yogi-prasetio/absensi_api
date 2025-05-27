@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2ohrS7gS0FozldT7lt4e5oUWhuJz2PRT5rhOCD3x23w=",
+  "Source": "absensi_api",
+  "BasePath": "_content/absensi_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

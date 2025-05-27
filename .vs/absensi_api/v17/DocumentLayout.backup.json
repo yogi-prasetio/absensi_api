@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\DOTNET\\absensi_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\icheckoutlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\icheckoutlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\icheckinlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\icheckinlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\iattendancelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\iattendancelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\interface\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:interface\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\checkoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\checkoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\checkinlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\checkinlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\absensi_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:absensi_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|d:\\projects\\dotnet\\absensi_api\\absensi_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CFC970E-BCE9-B851-8C00-B619C4B2B7AD}|absensi_api.csproj|solutionrelative:absensi_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IRoleRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IRoleRepository.cs",
+              "RelativeToolTip": "Interface\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICheckOutLogRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\ICheckOutLogRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ICheckOutLogRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\ICheckOutLogRepository.cs",
+              "RelativeToolTip": "Interface\\ICheckOutLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICheckInLogRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\ICheckInLogRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ICheckInLogRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\ICheckInLogRepository.cs",
+              "RelativeToolTip": "Interface\\ICheckInLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:19.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthenticationRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "Interface\\IAuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAttendanceLogRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAttendanceLogRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IAttendanceLogRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAttendanceLogRepository.cs",
+              "RelativeToolTip": "Interface\\IAttendanceLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IAccountRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Interface\\IAccountRepository.cs",
+              "RelativeToolTip": "Interface\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:29:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "absensi_api.http",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\absensi_api.http",
+              "RelativeDocumentMoniker": "absensi_api.http",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\absensi_api.http",
+              "RelativeToolTip": "absensi_api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-12T09:28:46.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:05:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:36:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckOutLog.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\CheckOutLog.cs",
+              "RelativeDocumentMoniker": "Models\\CheckOutLog.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\CheckOutLog.cs",
+              "RelativeToolTip": "Models\\CheckOutLog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:22:39.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T09:36:18.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T10:06:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:08:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:14:53.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendanceLog.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\AttendanceLog.cs",
+              "RelativeDocumentMoniker": "Models\\AttendanceLog.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\AttendanceLog.cs",
+              "RelativeToolTip": "Models\\AttendanceLog.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:21:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckInLog.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\CheckInLog.cs",
+              "RelativeDocumentMoniker": "Models\\CheckInLog.cs",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\Models\\CheckInLog.cs",
+              "RelativeToolTip": "Models\\CheckInLog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:22:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "absensi_api.csproj",
+              "DocumentMoniker": "D:\\PROJECTS\\DOTNET\\absensi_api\\absensi_api.csproj",
+              "RelativeDocumentMoniker": "absensi_api.csproj",
+              "ToolTip": "D:\\PROJECTS\\DOTNET\\absensi_api\\absensi_api.csproj",
+              "RelativeToolTip": "absensi_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T09:35:39.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
