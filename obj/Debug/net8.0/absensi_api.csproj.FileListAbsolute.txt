@@ -179,3 +179,4 @@ D:\PROJECTS\DOTNET\absensi_api\bin\Debug\net8.0\JWT.dll
 D:\PROJECTS\DOTNET\absensi_api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\PROJECTS\DOTNET\absensi_api\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\PROJECTS\DOTNET\absensi_api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\PROJECTS\DOTNET\absensi_api\obj\Debug\net8.0\absensi_api.sourcelink.json
