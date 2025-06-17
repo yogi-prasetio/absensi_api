@@ -102,8 +102,8 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
-builder.WebHost.UseUrls($"http://*:{port}");
+// var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
+// builder.WebHost.UseUrls($"http://*:{port}");
 
 // -------------------------
 // Controllers
