@@ -38,6 +38,12 @@ builder.Services.AddDbContext<AppDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
+// Create Uploads Folder
+var uploadsPath = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
+if (!Directory.Exists(uploadsPath))
+{
+    Directory.CreateDirectory(uploadsPath);
+}
 
 // List of Repository
 builder.Services.AddScoped<IAuthenticationRepository, AuthenticationRepository>();
