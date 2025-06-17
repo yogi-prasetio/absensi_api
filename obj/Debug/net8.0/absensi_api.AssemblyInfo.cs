@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("absensi_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdf30ac72855e17f82e75801bda8c25e3d625f56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f309dce43cccb922847377fc59537eb348739e")]
 [assembly: System.Reflection.AssemblyProductAttribute("absensi_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("absensi_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
